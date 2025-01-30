@@ -6,6 +6,9 @@ This project features an interactive **HR Summary Dashboard** created using Tabl
 
 ![HR Summary](https://github.com/user-attachments/assets/8e90d103-685a-4805-91f6-97aedf12b8b3)
 
+
+![HR Details](https://github.com/user-attachments/assets/5975e2bb-c280-4b01-8bfc-3adf8b9b19dc)
+
 ## Features  
 - **Employee Demographics**: Analyze workforce composition by gender, age, and department.  
 - **Turnover Insights**: Visualize turnover rates to identify trends and high-risk areas.  
